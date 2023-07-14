@@ -1,1 +1,2 @@
-# hisat_nocompression1
+# hisat_nocompression
+No compression in this workflow.
